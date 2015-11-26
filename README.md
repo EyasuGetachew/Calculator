@@ -1,15 +1,6 @@
 # Calculator 
 
 
-
- 
-
-
-
-
-
-
-
 // class Calculator declaration
 
 public class Calculator
@@ -72,49 +63,3 @@ public class TestCalculator
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
